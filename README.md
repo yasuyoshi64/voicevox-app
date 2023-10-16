@@ -1,6 +1,7 @@
 # voicevox-app
 
 VOICEVOXでテキストを音声化して再生します。
+
 <img src="https://github.com/yasuyoshi64/blogger_images/blob/20231015/simple_voicevox_app.png?raw=true">
 
 最初にDockerで[VOICEVOX engine](https://hub.docker.com/r/voicevox/voicevox_engine)を起動してください。
