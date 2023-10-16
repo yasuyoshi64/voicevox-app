@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  voicevox_engine:
+    image: voicevox/voicevox_engine:cpu-ubuntu20.04-latest
+    container_name: voicevox_engine
+    ports:
+      - 50021:50021
